@@ -1,3 +1,7 @@
 hola gente como estan todos
 yo estoy bien
+<<<<<<< HEAD
 a ver que tal
+=======
+estoy probando
+>>>>>>> 924a2bee504e4146609590c05eeae45982e34758
